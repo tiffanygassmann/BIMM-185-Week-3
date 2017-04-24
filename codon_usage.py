@@ -168,12 +168,12 @@ def make_plots():
     #CUI- values
     y_vals = [float(row[-1]) for row in table]
 
-    #plt.plot(x_vals, y_vals, "ro")
-    #plt.axis([0,5000,0.0, 0.03])
+    plt.plot(x_vals, y_vals, "ro")
+    plt.axis([0,5000,0.0, 0.03])
 
-    #plt.xlabel('Genes')
-    #plt.ylabel('CUI')
-    #plt.show()
+    plt.xlabel('Genes')
+    plt.ylabel('CUI')
+    plt.show()
 
     #CUI vs genes sorted by CUI
 
@@ -181,12 +181,12 @@ def make_plots():
     gene_cui = sorted(gene_cui, key = lambda x:x[1])
 
 
-    #plt.plot([i for i in range(len(gene_cui))], [pair[1] for pair in gene_cui] , "ro")
-    #plt.axis([0, 2700, 0.0, 0.03])
+    plt.plot([i for i in range(len(gene_cui))], [pair[1] for pair in gene_cui] , "ro")
+    plt.axis([0, 2700, 0.0, 0.03])
 
-    #plt.xlabel('Genes')
-    #plt.ylabel('CUI')
-    #plt.show()
+    plt.xlabel('Genes')
+    plt.ylabel('CUI')
+    plt.show()
 
 
     #Historam of CUI numbers

@@ -1,0 +1,8 @@
+type: gene
+location: [189:255](+)
+qualifiers:
+    Key: db_xref, Value: ['EcoGene:EG11277', 'GeneID:944742']
+    Key: gene, Value: ['thrL']
+    Key: gene_synonym, Value: ['ECK0001; JW4367']
+    Key: locus_tag, Value: ['b0001']
+

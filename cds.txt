@@ -1,0 +1,15 @@
+type: CDS
+location: [189:255](+)
+qualifiers:
+    Key: GO_process, Value: ['GO:0009088 - threonine biosynthetic process']
+    Key: codon_start, Value: ['1']
+    Key: db_xref, Value: ['GI:16127995', 'ASAP:ABE-0000006', 'UniProtKB/Swiss-Prot:P0AD86', 'EcoGene:EG11277', 'GeneID:944742']
+    Key: function, Value: ['leader; Amino acid biosynthesis: Threonine']
+    Key: gene, Value: ['thrL']
+    Key: gene_synonym, Value: ['ECK0001; JW4367']
+    Key: locus_tag, Value: ['b0001']
+    Key: product, Value: ['thr operon leader peptide']
+    Key: protein_id, Value: ['NP_414542.1']
+    Key: transl_table, Value: ['11']
+    Key: translation, Value: ['MKRISTTITTTITITTGNGAG']
+

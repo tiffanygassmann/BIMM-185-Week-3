@@ -1,0 +1,9 @@
+type: source
+location: [0:4641652](+)
+qualifiers:
+    Key: db_xref, Value: ['taxon:511145']
+    Key: mol_type, Value: ['genomic DNA']
+    Key: organism, Value: ['Escherichia coli str. K-12 substr. MG1655']
+    Key: strain, Value: ['K-12']
+    Key: sub_strain, Value: ['MG1655']
+

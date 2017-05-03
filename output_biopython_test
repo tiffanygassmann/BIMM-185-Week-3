@@ -2,7 +2,7 @@
 
 C:\Python27\python.exe C:/Users/Tiffany/bimm185week3/biopython_test.py
 Tax ID:  taxon:511145
-Accession	Coordinates	Strand	Gene Name Locus Tag	Synonyms	Protein Name	EC - Numbers	External Refs
+Accession	Coordinates	Strand	Gene Name Locus Tag	Synonyms	  Protein Name	EC - Numbers	External Refs
 NP_414542.1	189	255	+	thrL	b0001	ECK0001; JW4367	thr operon leader peptide	GI:16127995	ASAP:ABE-0000006	UniProtKB/Swiss-Prot:P0AD86	EcoGene:EG11277	GeneID:944742
 NP_414543.1	336	2799	+	thrA	b0002	ECK0002; Hs; JW0001; thrA1; thrA2; thrD	Bifunctional aspartokinase/homoserine dehydrogenase 1	GI:16127996	ASAP:ABE-0000008	UniProtKB/Swiss-Prot:P00561	EcoGene:EG10998	GeneID:945803
 NP_414544.1	2800	3733	+	thrB	b0003	ECK0003; JW0002	homoserine kinase	GI:16127997	ASAP:ABE-0000010	UniProtKB/Swiss-Prot:P00547	EcoGene:EG10999	GeneID:947498
